@@ -1,6 +1,6 @@
 # **Edgar Gonzalez- @Edgargc026**
 
-# Hello little strange 👋
+# Hello, little stranger 👋
 I'm a passionate boy who likes the challenges and adventures that life offers him. I love programming, designing database, create UX ♥ and talk about any topic.
 
 ##More info that interest you
