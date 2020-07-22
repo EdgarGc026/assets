@@ -1,14 +1,14 @@
 # **Hi, I'm Edgar Gonzalez**
 
-_Web Developer and Database administrator._
+_Web Developer and Database administrator.💻🌐_
 
 ## More info that interest you
 ```
-var EdgarGc026 = {
+const edgargc = {
   code: [Javascript, HTML, PHP, Java],
   tools: [Windows and Linux Terminal],
-  frameworks: ['Laravel', 'Spring', 'Bootstrap', 'Angular'],
-  degree: ['Computer technology student']
+  frameworks: [Laravel, Spring, Bootstrap, Angular],
+  degree: [Computer technology student]
 }
 ```
 
