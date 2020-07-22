@@ -1,11 +1,12 @@
 # **Hi, I'm Edgar Gonzalez**
 
-Web Developer and Database administrator.
+_Web Developer and Database administrator._
 
 ## More info that interest you
 ```
-let EdgarGc026 = {
-  code: ['Javascript', 'HTML', 'PHP', 'Java'],
+var EdgarGc026 = {
+  code: [Javascript, HTML, PHP, Java],
+  tools: [Windows and Linux Terminal],
   frameworks: ['Laravel', 'Spring', 'Bootstrap', 'Angular'],
   degree: ['Computer technology student']
 }
@@ -15,5 +16,4 @@ let EdgarGc026 = {
 - 🐦[Twitter](https://twitter.com/EdgarGc026) 
 - 📮 [Linkedin](https://www.linkedin.com/in/edgargc026/) 
 
-[My works *coming soon*]()
 
