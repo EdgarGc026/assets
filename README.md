@@ -1,6 +1,6 @@
 # **Hi, I'm Edgar Gonzalez** 
 
-_Web Developer and Database administrator.💻🌐_
+_Web Developer💻🌐_
 
 ## More info that interest you
 ```
