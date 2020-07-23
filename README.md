@@ -1,8 +1,11 @@
 # **Hi, I'm Edgar Gonzalez** 
 
-_Web Developer💻🌐_
+_Web Developer_ ![](https://github.com/EdgarGc026/Edgargc026/blob/master/codigo.png?raw=true)
 
-## More info that interest you
+## More info that interest you 
+![](https://github.com/EdgarGc026/Edgargc026/blob/master/php.png?raw=true) 
+![](https://github.com/EdgarGc026/Edgargc026/blob/master/html-5.png?raw=true)
+![](https://github.com/EdgarGc026/Edgargc026/blob/master/css.png?raw=true)
 ```
 const edgargc = {
   code: [Javascript, HTML, PHP, Java],
